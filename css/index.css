@@ -1,0 +1,167 @@
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 75%;
+  }
+
+body{
+
+    font-family: 'Fira Sans', sans-serif;
+
+    /*
+    background-image: url("../img/brickwall.jpg");
+    */
+
+    /*
+    background-size: cover;background-image: url("../img/long_hair_bull.jpeg") no-repeat center center fixed;
+    */
+
+    /*
+    background-size: cover;background-image: url("../img/ChiliCookOffCat.jpg");
+    align-content: no-repeat;
+    background-position: center center fixed;
+    */
+}
+
+h1{
+    color:#028446;
+    text-align: center;
+    font-size: 48px;
+    font-style:bold;
+    width: 90%;
+}
+
+h2{
+    color:#028446;
+    text-align: center;
+    font-size: 38px;
+    font-style:bold;
+    width: 90%;
+}
+
+h3{
+    color:black;
+    text-align: center;
+    font-size: 28px;
+    font-style:bold;
+    width: 90%;
+}
+
+h4{
+    color:black;
+    text-align: center;
+    font-size: 18px;
+    font-style:bold;
+    width: 90%;
+}
+
+p{
+    color:black;
+    margin-left: auto;
+    margin-right: auto;
+    width: 90%;
+}
+
+ul{
+    color: black;
+    margin-left: auto;
+    margin-right: auto;
+    width: 90%;  
+}
+
+ol{
+    color: black;
+    margin-left: auto;
+    margin-right: auto;
+    width: 90%;  
+}
+
+.container-sponsors{
+    display:flex;
+}
+
+.container-sponsors-vertical{
+    display:flex;
+    flex-direction: column;
+}
+
+.container-sponsors div{
+    border: 1px #ccc solid;
+    padding:10px;
+}
+
+.container-vertical div{
+    border: 1px #ccc solid;
+    padding:10px;
+}
+
+.container-main{
+    display:flex;
+    margin:6px;
+}
+
+.box-20{
+    flex-basis: 20%;
+    align-items: center;
+    justify-content: center;
+}
+
+.box-25{
+    flex-basis: 25%;
+    align-items: center;
+   justify-content: center;
+}
+
+.box-30{
+    flex-basis: 30%;
+    align-items: center;
+   justify-content: center;
+}
+
+.box-40{
+    flex-basis: 40%;
+    align-items: center;
+    justify-content: center;
+}
+
+.box-50{
+    flex-basis: 50%;
+    align-items: center;
+    justify-content: center;
+}
+
+.box-60{
+    flex-basis: 60%;
+    align-items: center;
+    justify-content: center;
+}
+
+.box-50-left{
+    flex-basis: 50%;
+    align-items: flex-start;
+    display: flex;
+}
+
+.box-60-photo{
+    flex-basis: 60%;
+    justify-content: center;
+    width: 100%;
+}
+
+
+.box-30{
+    flex-basis: 30%;
+    align-items: center;
+   justify-content: center;
+}
+
+.vjhs{
+    font-family: 'Rum Raisin';
+    color:#010400;
+    text-align: center;
+    font-size: 40px;
+    font-style:bold;
+
+}
+
