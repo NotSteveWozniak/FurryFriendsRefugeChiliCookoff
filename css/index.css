@@ -1,27 +1,25 @@
-.center {
+.poster {
     display: block;
     margin-left: auto;
     margin-right: auto;
-    width: 75%;
+    width: 95%;
   }
+
+.container-header{
+    background-color:#7874b1;
+    /*height:400px;
+    width: 1432px;*/
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%; 
+}
 
 body{
 
     font-family: 'Fira Sans', sans-serif;
 
-    /*
-    background-image: url("../img/brickwall.jpg");
-    */
-
-    /*
-    background-size: cover;background-image: url("../img/long_hair_bull.jpeg") no-repeat center center fixed;
-    */
-
-    /*
-    background-size: cover;background-image: url("../img/ChiliCookOffCat.jpg");
-    align-content: no-repeat;
-    background-position: center center fixed;
-    */
+    background-color:#7874b1;
 }
 
 img{
@@ -38,7 +36,7 @@ h1{
 }
 
 h2{
-    color:#028446;
+    color:#74b17d;
     text-align: center;
     font-size: 38px;
     font-style:bold;
