@@ -19,7 +19,7 @@ body{
 
     font-family: 'Fira Sans', sans-serif;
 
-    background-color:#7874b1;
+    /*background-color:#7874b1;*/
 }
 
 img{
@@ -40,7 +40,7 @@ h2{
     text-align: center;
     font-size: 38px;
     font-style:bold;
-    width: 90%;
+    width: 100%;
 }
 
 h3{
@@ -48,7 +48,7 @@ h3{
     text-align: center;
     font-size: 28px;
     font-style:bold;
-    width: 90%;
+    width: 100%;
 }
 
 h4{
@@ -56,28 +56,28 @@ h4{
     text-align: center;
     font-size: 18px;
     font-style:bold;
-    width: 90%;
+    width: 100%;
 }
 
 p{
     color:black;
     margin-left: auto;
     margin-right: auto;
-    width: 90%;
+    width: 100%;
 }
 
 ul{
     color: black;
     margin-left: auto;
     margin-right: auto;
-    width: 90%;  
+    width: 100%;  
 }
 
 ol{
     color: black;
     margin-left: auto;
     margin-right: auto;
-    width: 90%;  
+    width: 100%;  
 }
 
 .container-sponsors{
