@@ -146,6 +146,12 @@ ol{
     justify-content: center;
 }
 
+.box-80{
+    flex-basis: 80%;
+    align-items: center;
+    justify-content: center;
+}
+
 .box-50-left{
     flex-basis: 50%;
     align-items: flex-start;
